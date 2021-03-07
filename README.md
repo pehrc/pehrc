@@ -1,6 +1,6 @@
 # Pedro Correia
 
-## Olá Pessoal!
+## Hello World!
 Cursando Sistemas de Informação na Instituição Ensino de Toledo.
 Eterno estudante das tecnologias disponíveis e atualmente apaixonado pela programação web. Focado em adquirir maestria em JavaScript e TypeScript e suas bibliotecas ReactJS, React Native e NextJS :computer: :rocket:
 
